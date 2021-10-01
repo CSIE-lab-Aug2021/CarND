@@ -1,4 +1,6 @@
-# Self Driving Car Nano Degree
+# Planning the path for a Self-Driving Car on a Highway 
+
+Self Driving Car Nano Degree
 
 This repository contains my project submissions for Udacity's self driving car nano degree. 
 
